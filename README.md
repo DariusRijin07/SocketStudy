@@ -78,10 +78,10 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## output:
-Client:
+  ## Client:
 ![1](https://github.com/DariusRijin07/SocketStudy/assets/138849120/00530162-c335-4904-9f37-2b569f308ffc)
 server:
 ![1 1](https://github.com/DariusRijin07/SocketStudy/assets/138849120/4e35d092-613e-409c-991b-079d6fc7fbf1)
 
-## Result:
+  ## Result:
 Thus the study of Socket Programming Completed Successfully
